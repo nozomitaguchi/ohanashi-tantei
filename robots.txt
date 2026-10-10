@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nozomitaguchi.github.io/ohanashi-tantei/sitemap.xml
